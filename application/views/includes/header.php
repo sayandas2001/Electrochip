@@ -165,7 +165,7 @@
             <li>
               <a href="<?php echo base_url(); ?>Contact_listing">
                 <i class="fa fa-flag"></i>
-                <span>contact queries</span>
+                <span>Contact Queries</span>
               </a>
             </li>
             <?php
